@@ -1,3 +1,5 @@
+### TEST INPUT AT BOTTOM OF FILE. 
+
 import mapquest_api
 import output_classes
 import urllib.error
@@ -97,7 +99,13 @@ if __name__ == "__main__":
 
 
 """
-TEST:
+INPUT:
+Number of destinations 
+[Destinations - 1 per line]
+Number of desired output categories
+[Output categories - 1 per line] 
+
+EXAMPLE INPUT:
 5
 Oklahoma City, Oklahoma
 Houston, Texas
